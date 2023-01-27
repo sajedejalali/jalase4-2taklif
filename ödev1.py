@@ -21,5 +21,3 @@ while True:
                     sum.append(num)
         print(sum)
     
-
-sum.append(num)
